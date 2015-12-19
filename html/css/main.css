@@ -1,4 +1,4 @@
-body { font: 11px Verdana, Geneva, sans-serif; background-color: #fcfcfc }
+body { font: 11px Verdana, Geneva, sans-serif; background-color: #fcfcfc; margin:0; padding: 0; }
 table { font: 11px Verdana, Geneva, sans-serif }
 td, th { padding: 2px 4px }
 table.dataTable tr { background-color: #fff; border-color: #a8a8a8 }
